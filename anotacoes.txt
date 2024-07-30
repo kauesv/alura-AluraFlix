@@ -1,0 +1,7 @@
+                       O que é polimorfismo?
+É quando não importa a classe sendo usada, contanto que esta classe 
+herde de uma superclasse específica.
+
+Um código que espera uma superclasse, pode receber qualquer classe
+filha, reduzindo a quantidade de ifs às vezes, pois não precisamos mais
+verificar o tipo da classe
